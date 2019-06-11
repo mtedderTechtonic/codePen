@@ -1,0 +1,22 @@
+.example{
+    width:53%;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  
+  .card-1 {
+    border: 1px solid #ccc;
+  }
+  
+  .card-2 {
+    border: 1px solid #ccc;
+  }
+  /* 
+  card border: #ccc
+  button background: gray
+  card box-shadow: rgba(0,0,0,0.3)
+  */
